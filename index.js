@@ -28,7 +28,7 @@ const maxReconnectAttempts = 3;
 
 // ضع التوكن هنا مباشرة
 
-const TOKEN = "ODk1NDIzMTg4MjcwNDgxNDQw.G2-lAc.lELENAuZayLWLEWYkHQSRUepme6J6tIpZ9zB0I";
+const TOKEN = "ODk1NDIzMTg4MjcwNDgxNDQw.G66iLp.VA2AoND_56qzMItlYAq6zCviGBzu3x5DHhJ41I";
 
 const GUILD_ID = "1488870661396107274";
 
